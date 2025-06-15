@@ -1,0 +1,131 @@
+site_name: Sequentior
+nav:
+  - Sequentior: index.md
+  - Sequentior Manager:
+    - sequentiormanager/index.md
+    - Graph Editor: sequentiormanager/sequentiorgrapheditor.md
+  - All Sequentials:
+      - sequentials/index.md
+      - Base Sequential: sequentials/sequential_base.md
+      - Start: sequentials/sequential_start.md
+      - Log: sequentials/sequential_log.md      
+      - Object Returner: 
+        - sequentials/sequentialobjectreturner/index.md
+        - Single Object: sequentials/sequentialobjectreturner/single.md
+        - Multiple Objects: sequentials/sequentialobjectreturner/multiple.md
+      - Sequentior Sequentials:
+        - sequentials/sequentiorsequentials/index.md
+        - Play Sequentior: sequentials/sequentiorsequentials/sequential_playsequentior.md
+        - Stop Sequentior: sequentials/sequentiorsequentials/sequential_stopsequentior.md
+        - Pause Sequentior: sequentials/sequentiorsequentials/sequential_pausesequentior.md
+        - Resume Sequentior: sequentials/sequentiorsequentials/sequential_resumesequentior.md
+      - GameObject Sequentials:
+        - sequentials/gameobjectsequentials/index.md
+        - Destroy Object: sequentials/gameobjectsequentials/sequential_destroygameobject.md
+        - Enable/Disable Object: sequentials/gameobjectsequentials/sequential_enabledisableobject.md
+        - Instantiate Object: sequentials/gameobjectsequentials/sequential_instantiate.md
+        - Find Single Object: sequentials/gameobjectsequentials/sequential_findsingleobj.md
+        - Find Multiple Objects: sequentials/gameobjectsequentials/sequential_findmultipleobj.md
+      - Animation Sequentials: 
+        - sequentials/animationsequentials/index.md
+        - Move : sequentials/animationsequentials/sequential_move.md
+        - Rotate : sequentials/animationsequentials/sequential_rotate.md
+        - Rotate Around : sequentials/animationsequentials/sequential_rotatearound.md
+        - Scale : sequentials/animationsequentials/sequential_scale.md
+        - Change Color : sequentials/animationsequentials/sequential_changecolor.md
+        - Shake Transform : sequentials/animationsequentials/sequential_shaketransform.md
+        - Float Animator : sequentials/animationsequentials/sequential_floatanimator.md
+      - UI Animation Sequentials:
+        - sequentials/uianimationsequentials/index.md
+        - Move : sequentials/animationsequentials/sequential_move.md
+        - Rotate : sequentials/animationsequentials/sequential_rotate.md
+        - Scale : sequentials/animationsequentials/sequential_scale.md
+        - Fade UI : sequentials/uianimationsequentials/sequential_fadeui.md
+        - Change UI Size : sequentials/uianimationsequentials/sequential_changeuisize.md
+        - Change UI Offset : sequentials/uianimationsequentials/sequential_changeuioffset.md
+      - Material Sequentials:
+        - sequentials/materialsequentials/index.md
+        - Change Material Color: sequentials/materialsequentials/sequential_changematerialcolor.md
+        - Animate Material Float Property: sequentials/materialsequentials/sequential_animatematerialfloat.md
+        - Animate Material Integer Property: sequentials/materialsequentials/sequential_animatematerialint.md
+        - Animate Material Texture Offset: sequentials/materialsequentials/sequential_animatematerialtextureoffset.md
+        - Animate Material Texture Tiling: sequentials/materialsequentials/sequential_animatematerialtexturetile.md
+        - Set Material Texture: sequentials/materialsequentials/sequential_materialsettex.md
+        - Change Material: sequentials/materialsequentials/sequential_changematerial.md
+      - Variable Sequentials:
+        - Get Variable: sequentials/variablesequentials/sequential_getvariable.md
+        - Set GameObject Variable: sequentials/variablesequentials/sequential_setgameobjvariable.md
+      - Event Trigger Sequentials:
+        - sequentials/eventtriggersequentials/index.md
+        - Sequentior Event Trigger: sequentials/eventtriggersequentials/sequential_seqeventtrigger.md
+        - Unity Event Trigger: sequentials/eventtriggersequentials/sequential_unityeventtrigger.md
+      - Audio Sequentials:
+        - Play Audio: sequentials/audiosequentials/sequential_playaudio.md
+        - Change Audio Volume: sequentials/audiosequentials/sequential_changeaudiovolume.md
+      - Method Sequentials:
+        - Call Method: sequentials/methodsequentials/sequential_callmethod.md
+      - Loop Sequentials:
+        - sequentials/loopsequentials/index.md
+      - Pause Sequentials:
+        - Pause: sequentials/pausesequentials/sequential_pause.md
+        - Wait: sequentials/pausesequentials/sequential_wait.md
+      - Camera Sequentials:
+        - Shake Camera: sequentials/camerasequentials/sequential_shakecam.md
+        - Zoom Camera: sequentials/camerasequentials/sequential_zoomcam.md
+      - Text Sequentials:
+        - sequentials/textsequentials/index.md
+        - Change Text Color: sequentials/textsequentials/sequential_changetextcolor.md
+        - Change Text Font Size: sequentials/textsequentials/sequential_changetextfontsize.md
+        - Count Number on Text: sequentials/textsequentials/sequential_countnumberontext.md
+        - Change Text: sequentials/textsequentials/sequential_changetext.md
+        - Reveal Text: sequentials/textsequentials/sequential_revealtext.md
+        - Change Text Dilate: sequentials/textsequentials/sequential_changetextdilate.md
+        - Change Text Softness: sequentials/textsequentials/sequential_changetextsoftness.md
+        - Change Text Outline Width: sequentials/textsequentials/sequential_changetextoutlinewidth.md
+        - Change Text Outline Color: sequentials/textsequentials/sequential_changetextoutlinecolor.md
+      - Rigidbody Sequentials:
+        - Add Force: sequentials/rigidbodysequentials/sequential_rigidbodyaddforce3d.md
+        - Add Force 2D: sequentials/rigidbodysequentials/sequential_rigidbodyaddforce2d.md
+        - Add Explosion Force: sequentials/rigidbodysequentials/sequential_rigidbodyaddexplosion.md
+      - Unity Animation Sequentials:
+        - sequentials/unityanimationsequentials/index.md
+        - Play Unity Animation: sequentials/unityanimationsequentials/sequential_playunityanimation.md
+        - Stop Unity Animation: sequentials/unityanimationsequentials/sequential_stopanimation.md
+        - Set Animator Parameter: sequentials/unityanimationsequentials/sequential_setanimatorparameter.md
+        - CrossFade Unity Animation: sequentials/unityanimationsequentials/sequential_crossfadeanimation.md
+      - Misc:
+        - Time Scale: sequentials/miscsequentials/sequential_timescale.md
+  - Assigning Values: valueassign.md
+  - Variables:
+    - variables/index.md
+    - Local Variables: variables/variables.md
+    - Global Variables: variables/globalvariables.md
+  - Custom Sequentials:
+    - customsequentials/index.md
+    - Basics: customsequentials/basics.md
+    - Advanced: customsequentials/advanced.md
+    - Attributes:
+      - customsequentials/attributes/index.md
+      - Sequential Node: customsequentials/attributes/sequentialnode.md
+  - Dynamic Sequentior: dynamicsequentior.md
+  - Sequentior Event: sequentiorevent.md
+  - Sample Projects: sampleproject.md
+  - Examples & How-Tos:
+    - examples/index.md
+theme: 
+  name: material
+  features:
+    - navigation.indexes
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
