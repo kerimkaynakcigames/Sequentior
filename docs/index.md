@@ -1,12 +1,12 @@
 # Welcome to Sequentior
 
-To a download Sequentior, please visit [Asset Store](https://www.assetstore.com).
+To download Sequentior, please visit [Asset Store](https://www.assetstore.com).
 
 ## What is Sequentior?
 
 Sequentior is a Unity asset to create a flow of sequences for performing lots of stuff including animations.
 
-![Sequentior Graph Sample](/img/sequentiorgraphsample.jpg)
+![Sequentior Graph Sample](img/sequentiorgraphsample.jpg)
 
 
 !!! warning
