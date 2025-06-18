@@ -1,6 +1,6 @@
 # Change Text Outline Width Sequential
 
-![Outline Width](/img/sequential_textoutlinewidth.jpg)
+![Outline Width](../../img/sequential_textoutlinewidth.jpg)
 
 This sequential will change the Outline Width property of a TextMeshPro component with animation.
 

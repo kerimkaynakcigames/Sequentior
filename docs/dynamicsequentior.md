@@ -7,7 +7,7 @@ Dynamic sequentiors are like animation prefabs and can be defined once and used 
 
 To instantiate a dynamic sequentior from your game logic, you need to add __Sequentior Instantiator__ component to the game object that will responsible for instantiating.
 
-![Sequentior Instantiator](/img/sequentior_instantiator.jpg)
+![Sequentior Instantiator](img/sequentior_instantiator.jpg)
 
 ``` csharp title="Instantiate from MonoBehaviour script"
     // to instantiate the sequentior, call the InstantiateSequentior() method

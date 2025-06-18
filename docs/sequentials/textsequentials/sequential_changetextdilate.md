@@ -1,6 +1,6 @@
 # Change Text Dilate Sequential
 
-![Dilate](/img/sequential_textdilate.jpg)
+![Dilate](../../img/sequential_textdilate.jpg)
 
 This sequential will change the Dilate property of a TextMeshPro component with animation.
 

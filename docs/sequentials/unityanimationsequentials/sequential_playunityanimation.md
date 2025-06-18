@@ -1,6 +1,6 @@
 # Play Unity Animator Animation Sequential
 
-![Play Animation](/img/sequential_playunityanimator.jpg)
+![Play Animation](../../img/sequential_playunityanimator.jpg)
 
 This sequentials plays a Unity animation state.
 

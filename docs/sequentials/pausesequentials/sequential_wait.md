@@ -1,6 +1,6 @@
 # Wait Sequential
 
-![Wait](/img/sequential_wait.jpg)
+![Wait](../../img/sequential_wait.jpg)
 
 This sequential holds all the sequentials after itself until the sequentials before itself has been completed.
 

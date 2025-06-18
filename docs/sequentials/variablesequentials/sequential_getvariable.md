@@ -1,6 +1,6 @@
 # Get Variable Sequential
 
-![Get Variable](/img/sequential_getvariable.jpg)
+![Get Variable](../../img/sequential_getvariable.jpg)
 
 This sequential finds a variable from the Parent Sequentior's Variables List and returns it as the __Sequential Output port__.
 

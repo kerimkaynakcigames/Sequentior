@@ -1,6 +1,6 @@
 # Material Texture Tiling Animator Sequential
 
-![Material Texture Tiling Animator Sequential](/img/sequential_materialtexturetile.jpg)
+![Material Texture Tiling Animator Sequential](../../img/sequential_materialtexturetile.jpg)
 
 This sequential lets you modify the tiling of a given texture of a material.
 

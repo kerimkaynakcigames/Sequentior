@@ -1,6 +1,6 @@
 # Add Explosion Force Sequential
 
-![Add Force](/img/sequential_rigidbodyaddexplosion.jpg)
+![Add Force](../../img/sequential_rigidbodyaddexplosion.jpg)
 
 This sequential applies force to a __Rigidbody__ component that simulates explosion effects.
 

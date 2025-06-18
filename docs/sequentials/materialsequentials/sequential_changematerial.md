@@ -1,6 +1,6 @@
 # Change Material
 
-![Change Material](/img/sequential_changematerial.jpg)
+![Change Material](../../img/sequential_changematerial.jpg)
 
 This sequential interpolates between two materials of the target renderer game object.
 

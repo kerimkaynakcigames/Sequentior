@@ -19,14 +19,14 @@ Here are the parameteres that can be used for this attribute:
 
 Title will be displayed in both [Sequential List Window](../../sequentiormanager/sequentiorgrapheditor.md#add-new-sequential-node) and also on the Sequential Node itself.
 
-![Sequential List Window](/img/sequentialnodeattr_title.jpg)
-![Animation Sequential](/img/sequential_changecolor.jpg)
+![Sequential List Window](../../img/sequentialnodeattr_title.jpg)
+![Animation Sequential](../../img/sequential_changecolor.jpg)
 
 ## Group
 
 When creating sequentials in [Sequentior Graph Editor](../../sequentiormanager/sequentiorgrapheditor.md), a list of sequentials will be displayed as grouped and __Group__ parameter defines which group this sequential belongs to. You can use a built-in group name or can define your own custom group name.
 
-![Sequential List Window](/img/sequentiorgrapheditor_createnodewindow.jpg)
+![Sequential List Window](../../img/sequentiorgrapheditor_createnodewindow.jpg)
 
 ## DisplayOrder
 
@@ -77,7 +77,7 @@ All the sequentials have the __IN__ input port because __NEXT__ output port of a
 
 All the other input ports are extra input ports and should be added to the InputPortCount parameter.
 
-![Input Ports](/img/inputports.jpg)
+![Input Ports](../../img/inputports.jpg)
 
 For example, Move Sequential has 4 input ports including the IN. We don't count IN as extra, so InputPortCount parameter should be 3.
 

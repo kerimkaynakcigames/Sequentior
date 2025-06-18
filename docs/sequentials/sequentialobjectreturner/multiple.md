@@ -12,12 +12,12 @@ This option lets you choose how to find the target objects. There are a few opti
 By default, a sequential starts performing its actions on every target game object in the same frame by looping. But if you want to wait for a time before performing the sequential action for the next target object in Target Objects list, set a value (in seconds) for this option.
 
 !!! info
-    You can enter different type of values here by clicking the down arrow ![Down Arrow](/img/valuearrow.jpg) and choosing another option.
+    You can enter different type of values here by clicking the down arrow ![Down Arrow](../../img/valuearrow.jpg) and choosing another option.
     To see how this works, see the [Value Assign](../../valueassign.md) section
 
 ### Direct Assignment
 
-![Target Objects](/img/sequential_objectreturner_multiple_direct.jpg)
+![Target Objects](../../img/sequential_objectreturner_multiple_direct.jpg)
 
 This lets you select multiple game objects as the target objects from the scene.
 
@@ -30,7 +30,7 @@ This list is used to assign multiple target objects directly from a scene.
 
 ### By Name
 
-![Target Object Name](/img/sequential_objectreturner_multiple_name.jpg)
+![Target Object Name](../../img/sequential_objectreturner_multiple_name.jpg)
 
 This lets you find multiple target game objects that matches the name.
 
@@ -52,7 +52,7 @@ If you assign another game object here, it will try to find in children of that 
 
 ### By Tag
 
-![Target Object Tag](/img/sequential_objectreturner_multiple_tag.jpg)
+![Target Object Tag](../../img/sequential_objectreturner_multiple_tag.jpg)
 
 This lets you find multiple target game objects that has this tag.
 
@@ -61,7 +61,7 @@ This lets you find multiple target game objects that has this tag.
 This is the tag of the game objects to find from the scene. 
 
 ### By Type
-![Target Object Tag](/img/sequential_objectreturner_multiple_type.jpg)
+![Target Object Tag](../../img/sequential_objectreturner_multiple_type.jpg)
 
 This lets you find  target game objects by their class type.
 
@@ -85,7 +85,7 @@ By default, only the active objects are returned as the target objects. But to s
 
 ### By Object Group
 
-![Target Object Group](/img/sequential_objectreturner_multiple_objectgroup.jpg)
+![Target Object Group](../../img/sequential_objectreturner_multiple_objectgroup.jpg)
 
 This lets you find game objects which have __Sequentior Object Group__ component and have the same Group Name.
 
@@ -97,7 +97,7 @@ For example, to perform actions on all (or some of) the Buttons in your scene, y
 
 #### Sequentior Object Group Component
 
-![Sequentior Object Group Component](/img/objectgroup.jpg)
+![Sequentior Object Group Component](../../img/objectgroup.jpg)
 
 ##### Group
 This is the name of the group this game object belongs to.
@@ -112,7 +112,7 @@ The game object that has the minimum Order value will be the first game object i
 
 
 ### By Sequential
-![Target Object Sequential](/img/sequential_objectreturner_multiple_sequential.jpg)
+![Target Object Sequential](../../img/sequential_objectreturner_multiple_sequential.jpg)
 
 This lets you get the target objects from another sequential's returned game objects.
 

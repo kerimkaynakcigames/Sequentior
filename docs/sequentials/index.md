@@ -10,7 +10,7 @@ Sequential is the base entity that performs a task in a sequence flow of a Seque
 
 You can see the description of each sequential by clicking the question mark icon on the top left corner of nodes.
 
-![Description](/img/sequentialnode_help.jpg)
+![Description](../img/sequentialnode_help.jpg)
 
 
 

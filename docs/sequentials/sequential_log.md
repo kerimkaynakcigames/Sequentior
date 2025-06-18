@@ -1,6 +1,6 @@
 # Log Sequential
 
-![Log Sequential](/img/sequential_log.jpg)
+![Log Sequential](../img/sequential_log.jpg)
 
 This sequential lets you write log messages to the Unity Console. 
 

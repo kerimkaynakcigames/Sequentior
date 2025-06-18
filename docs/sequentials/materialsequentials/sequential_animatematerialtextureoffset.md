@@ -1,6 +1,6 @@
 # Material Texture Offset Animator Sequential
 
-![Material Texture Offset Animator Sequential](/img/sequential_materialtextureoffset.jpg)
+![Material Texture Offset Animator Sequential](../../img/sequential_materialtextureoffset.jpg)
 
 This sequential lets you modify the placement offset of a given texture of a material.
 

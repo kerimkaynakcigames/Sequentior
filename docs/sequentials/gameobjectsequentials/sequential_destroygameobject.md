@@ -1,6 +1,6 @@
 # Destroy Object Sequential
 
-![Destroy Object](/img/sequential_destroyobject.jpg)
+![Destroy Object](../../img/sequential_destroyobject.jpg)
 
 This sequential destroys a Unity game object (Target Object) with or without delay.
 

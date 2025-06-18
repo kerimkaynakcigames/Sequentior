@@ -1,6 +1,6 @@
 # Find a Single Object Sequential
 
-![Find a single object](/img/sequential_findsingleobj.jpg)
+![Find a single object](../../img/sequential_findsingleobj.jpg)
 
 This sequential lets you find a game object and exposes it to its __Sequential output port__.
 
@@ -10,7 +10,7 @@ This sequential lets you find a game object and exposes it to its __Sequential o
 
 #### Obj Name
 
-![Target Object Tag](/img/sequential_findsingleobj_byname.jpg)
+![Target Object Tag](../../img/sequential_findsingleobj_byname.jpg)
 
 This is the name of the game object to find from the scene. The first game object with this name will be returned.
 
@@ -29,7 +29,7 @@ If you assign another game object here, it will try to find in children of that 
 
 ### By Tag
 
-![Target Object Tag](/img/sequential_findsingleobj_bytag.jpg)
+![Target Object Tag](../../img/sequential_findsingleobj_bytag.jpg)
 
 This lets you find a single  game object by its tag.
 
@@ -39,7 +39,7 @@ This is the tag of the game object to find from the scene. The first game object
 
 
 ### By Type
-![Target Object Tag](/img/sequential_findsingleobj_bytype.jpg)
+![Target Object Tag](../../img/sequential_findsingleobj_bytype.jpg)
 
 This lets you find a single game object by its class type.
 

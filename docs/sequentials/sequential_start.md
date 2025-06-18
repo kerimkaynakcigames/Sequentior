@@ -1,6 +1,6 @@
 # Start Sequential
 
-![Start Sequential](/img/sequential_start.jpg)
+![Start Sequential](../img/sequential_start.jpg)
 
 Start Sequential is the entry point of a Sequentior Graph. Every graph needs to have one Start Sequential.
 

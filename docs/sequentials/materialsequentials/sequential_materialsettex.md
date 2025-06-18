@@ -1,6 +1,6 @@
 # Set Material Texture
 
-![Set Texture](/img/sequential_materialsettex.jpg)
+![Set Texture](../../img/sequential_materialsettex.jpg)
 
 This sequential sets a new texture to the target material.
 

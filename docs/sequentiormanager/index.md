@@ -7,7 +7,7 @@ Sequentials are kind of single task performing sequence nodes that can be connec
 !!! note "" 
     You need to add a **Sequentior Manager** component to a **GameObject** to start adding sequentials.
 
-![SequentiorManager](/img/sequentiormanager1.jpg)
+![SequentiorManager](../img/sequentiormanager1.jpg)
 
 As you see, there are some options to tweak Sequentior Manager.
 

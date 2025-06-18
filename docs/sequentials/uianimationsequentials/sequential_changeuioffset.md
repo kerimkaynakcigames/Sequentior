@@ -1,6 +1,6 @@
 # Change UI Offset
 
-![Change UI Offset](/img/sequential_changeuioffset.jpg)
+![Change UI Offset](../../img/sequential_changeuioffset.jpg)
 
 This sequential changes the position of a UI element by modifying its __offsetMin__ and __offsetMax__ properties. 
 
@@ -41,7 +41,7 @@ This multiplies the UI element's initial position (offset values) with the  __Of
 
 This lets you define the starting position and end position of the Change UI Offset animation independent from the initial position of the target UI element.
 
-![From A to B](/img/sequential_changeuioffset_ab.jpg)
+![From A to B](../../img/sequential_changeuioffset_ab.jpg)
 
 ## Offset
 

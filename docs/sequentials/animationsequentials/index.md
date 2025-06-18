@@ -1,6 +1,6 @@
 # Animation Sequentials
 
-![Animation Sequential](/img/sequential_animationbase.jpg)
+![Animation Sequential](../../img/sequential_animationbase.jpg)
 
 Most of the sequentials that modifies a value of a game object derives from the Animation Base Sequential.
 
@@ -26,7 +26,7 @@ This is the easing function to calculate the value of the animation at a certain
 
 You can choose from a predefined ease functions or select the Custom option and create an animation curve for your specific needs.
 
-![Ease Type Custom](/img/easetype_custom.jpg)
+![Ease Type Custom](../../img/easetype_custom.jpg)
 
 !!! tip
     Try several Ease Type for your animations to create some cool effects.

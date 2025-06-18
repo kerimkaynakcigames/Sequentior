@@ -1,6 +1,6 @@
 # Material Sequentials
 
-![Material Sequential Base](/img/sequential_materialbase.jpg)
+![Material Sequential Base](../../img/sequential_materialbase.jpg)
 
 This is the base sequential for animating material properties. All the derived sequentials has the options mentioned below.
 

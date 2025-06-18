@@ -1,6 +1,6 @@
 # Resume Another Sequentior
 
-![Resume Another Sequentior Sequential](/img/sequential_resumesequentior.jpg)
+![Resume Another Sequentior Sequential](../../img/sequential_resumesequentior.jpg)
 
 This sequential resumes playing sequentials of another paused Sequentior Manager.
 

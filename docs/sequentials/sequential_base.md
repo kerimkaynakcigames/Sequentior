@@ -1,6 +1,6 @@
 # Sequential Base Properties
 
-![Sequential Base Properties](/img/sequential_base.jpg)
+![Sequential Base Properties](../img/sequential_base.jpg)
 
 Because every sequential derives from the base Sequential class, every sequential has those properties.
 

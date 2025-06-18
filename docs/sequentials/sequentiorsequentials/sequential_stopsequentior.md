@@ -1,6 +1,6 @@
 # Stop Another Sequentior
 
-![Stop Another Sequentior Sequential](/img/sequential_stopsequentior.jpg)
+![Stop Another Sequentior Sequential](../../img/sequential_stopsequentior.jpg)
 
 This sequential stops any playing sequentials of another Sequentior Manager.
 

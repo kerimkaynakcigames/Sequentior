@@ -25,7 +25,7 @@ Here's an example to trigger this event from your code:
 
 ## Sequentior Event Listener
 
-![Seq Event Listener](/img/sequentioreventlistener.jpg)
+![Seq Event Listener](img/sequentioreventlistener.jpg)
 
 The game objects that listens to a Sequentior Event need to have __Sequentior Event Listener__ component attached.
 

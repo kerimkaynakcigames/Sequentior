@@ -1,6 +1,6 @@
 # Instantiate Sequential
 
-![Instantiate Object](/img/sequential_instantiate.jpg)
+![Instantiate Object](../../img/sequential_instantiate.jpg)
 
 This sequential instantiate a Unity game object from a prefab.
 
@@ -43,7 +43,7 @@ So, if this is enabled, the world position of the game object stays same. Otherw
 
 ## Destroy Options
 
-![Destroy Options](/img/sequential_instantiate_destroy.jpg)
+![Destroy Options](../../img/sequential_instantiate_destroy.jpg)
 
 ### Destroy Delayed
 
@@ -57,7 +57,7 @@ If the Destroy Delayed is enabled, the instantiated object will be destroyed aft
 
 This group lets you define the position of the instantiated object.
 
-![Positioning](/img/sequential_instantiate_position.jpg)
+![Positioning](../../img/sequential_instantiate_position.jpg)
 
 ### Position to This
 

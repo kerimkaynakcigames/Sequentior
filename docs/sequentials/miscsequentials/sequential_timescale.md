@@ -1,6 +1,6 @@
 # Time Scale Sequential
 
-![Time Scale](/img/sequential_timescale.jpg)
+![Time Scale](../../img/sequential_timescale.jpg)
 
 This sequential changes scale of time over time by modifying Time.timeScale.
 

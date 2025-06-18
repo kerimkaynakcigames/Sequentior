@@ -1,6 +1,6 @@
 # Loop Sequentials
 
-![Begin Loop](/img/sequential_loopbegin.jpg)
+![Begin Loop](../../img/sequential_loopbegin.jpg)
 
 
 To loop through a series of sequentials you need to use __Begin Loop__ and __End Loop__ sequentials.
@@ -24,7 +24,7 @@ It's possible to assign different kind of values to this property (e.g. directly
     To learn more about assigning values with different options, see [Value Assign](../../valueassign.md)
 
 ## End Loop
-![End Loop](/img/sequential_loopend.jpg)
+![End Loop](../../img/sequential_loopend.jpg)
 
 For every __Begin Loop__ sequential, you need to add an __End Loop__ sequential which defines the scope of the loop. 
 

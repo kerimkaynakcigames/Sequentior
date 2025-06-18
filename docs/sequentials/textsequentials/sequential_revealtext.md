@@ -1,6 +1,6 @@
 # Reveal Text Sequential
 
-![Reveal](/img/sequential_revealtext.jpg)
+![Reveal](../../img/sequential_revealtext.jpg)
 
 This sequential reveals a text of a TextMeshPro component with animation.
 

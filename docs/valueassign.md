@@ -1,6 +1,6 @@
 # Assigning Values
 
-![Value Assign Options](/img/valueassign_options.jpg)
+![Value Assign Options](img/valueassign_options.jpg)
 
 Most of the time we assign values to the sequentials by entering the value directly. For example to delay a sequential play action, we set a constant float value like 0.5. 
 
@@ -9,28 +9,28 @@ But, for advanced scenarios we need more because some values might depend on ano
 Now, let's see each value assign options.
 
 !!! note
-    Whenever you see a down arrow ![Down Arrow](/img/valuearrow.jpg) icon next to a property, that means this field has some another value assign options to choose from.
+    Whenever you see a down arrow ![Down Arrow](img/valuearrow.jpg) icon next to a property, that means this field has some another value assign options to choose from.
 
 ## Direct Assignment
 In this option, you directly enter a value. 
 
 For example, you can enter a floating point number for a float type field or you can enter X,Y and Z values for a Vector3 type field. 
 
-![Direct Value Assign](/img/valueassign_direct.jpg)
+![Direct Value Assign](img/valueassign_direct.jpg)
 
 ## Random
 In this option, you can specify a range of values and a random value will be choosen in this range.
 
 For example, you can enter Min and Max values of the range for a float type field and when the sequential performs its related action, it will evaluate the random function within this range and selects a random number.
 
-![Random Value Assign](/img/valueassign_random.jpg)
+![Random Value Assign](img/valueassign_random.jpg)
 
 ## Variable
 In this option, you can enter a variable name instead of the value itself and sequential will get the exact value from the variables list of the parent Sequentior Manager.
 
 This is useful for assigning values that can be defined or modified at runtime.
 
-![Variable Value Assign](/img/valueassign_var.jpg)
+![Variable Value Assign](img/valueassign_var.jpg)
 
 !!! info
     See [Variables](variables/variables.md) for more information about variables.
@@ -52,12 +52,12 @@ In this option, you can select another transform and sequential will try to get 
 
 For example, you can assign to another transform to the MoveValue of a Move sequential, so it will get the position of this transform as the MoveValue.
 
-![Another Transform](/img/valueassign_anothertransform.jpg)
+![Another Transform](img/valueassign_anothertransform.jpg)
 
 ## Sequential
 
 In this option, you can connect another sequential's Sequential output port to the appropriate input port of this sequential and it will get the value from this connected sequential's returned game object.
 
-![Sequential](/img/valueassign_sequential.jpg)
+![Sequential](img/valueassign_sequential.jpg)
 
-![Sequential](/img/valueassign_sequential2.jpg)
+![Sequential](img/valueassign_sequential2.jpg)

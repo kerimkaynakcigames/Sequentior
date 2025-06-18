@@ -1,6 +1,6 @@
 # Set Animator Parameter Sequential
 
-![Set Parameter](/img/sequential_setanimatorparameter.jpg)
+![Set Parameter](../../img/sequential_setanimatorparameter.jpg)
 
 This sequential lets you set a value to an animator parameter.
 

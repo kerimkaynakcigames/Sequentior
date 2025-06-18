@@ -1,6 +1,6 @@
 # Change Material Color Sequential
 
-![Change Material Color Sequential](/img/sequential_changematerialcolor.jpg)
+![Change Material Color Sequential](../../img/sequential_changematerialcolor.jpg)
 
 This sequential changes the color of a material with animation.
 

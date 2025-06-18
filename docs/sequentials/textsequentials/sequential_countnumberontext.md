@@ -1,6 +1,6 @@
 # Count Number on Text Sequential
 
-![Count](/img/sequential_countontext.jpg)
+![Count](../../img/sequential_countontext.jpg)
 
 Counts from a number to another number and sets the value to the TMP Text component's text.
 

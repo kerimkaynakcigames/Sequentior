@@ -1,6 +1,6 @@
 # Pause Sequential
 
-![Pause](/img/sequential_pause.jpg)
+![Pause](../../img/sequential_pause.jpg)
 
 This sequential delays playing the __sequentials after itself__.
 

@@ -9,7 +9,7 @@ This option lets you choose how to find the target object. There are a few optio
 
 ### Direct Assignment
 
-![Target Object](/img/sequential_objectreturner_single_direct.jpg)
+![Target Object](../../img/sequential_objectreturner_single_direct.jpg)
 
 This lets you select a single game object as the target object from the scene.
 
@@ -20,7 +20,7 @@ This is used to assign a single target object directly.
 
 ### By Name
 
-![Target Object Name](/img/sequential_objectreturner_single_name.jpg)
+![Target Object Name](../../img/sequential_objectreturner_single_name.jpg)
 
 This lets you find a single target game object by its name.
 
@@ -42,7 +42,7 @@ If you assign another game object here, it will try to find in children of that 
 
 ### By Tag
 
-![Target Object Tag](/img/sequential_objectreturner_single_tag.jpg)
+![Target Object Tag](../../img/sequential_objectreturner_single_tag.jpg)
 
 This lets you find a single target game object by its tag.
 
@@ -51,7 +51,7 @@ This lets you find a single target game object by its tag.
 This is the tag of the game object to find from the scene. The first game object with this tag will be returned.
 
 ### By Type
-![Target Object Tag](/img/sequential_objectreturner_single_type.jpg)
+![Target Object Tag](../../img/sequential_objectreturner_single_type.jpg)
 
 This lets you find a single target game object by its class type.
 
@@ -74,7 +74,7 @@ See [Find In Children Of This](#find-in-children-of-this)
 By default, only the first active object is returned as the target object. But to search in inactive objects too, enable this option.
 
 ### By Sequential
-![Target Object Sequential](/img/sequential_objectreturner_single_sequential.jpg)
+![Target Object Sequential](../../img/sequential_objectreturner_single_sequential.jpg)
 
 This lets you get the target object from another sequential's returned game object.
 
@@ -88,7 +88,7 @@ This is the sequential that will return the game object as the target object.
     Do not assign this field manually. This is automatically assigned when you connect another sequential's Sequential output pin to this sequential's Target Obj input pin.
 
 ### By Variable
-![Target Object Variable](/img/sequential_objectreturner_single_variable.jpg)
+![Target Object Variable](../../img/sequential_objectreturner_single_variable.jpg)
 
 This lets you get the target object from a variable of parent Sequentior Manager of this sequential.
 
@@ -96,7 +96,7 @@ This lets you get the target object from a variable of parent Sequentior Manager
 Enter a variable name of type __Game Object__.
 This variable needs to be in the Variables List of parent Sequentior Manager.
 
-![Variable](/img/sequential_variable_gameobject.jpg)
+![Variable](../../img/sequential_variable_gameobject.jpg)
 
 !!! info
     See [Variables](../../variables.md) for more information about variables.

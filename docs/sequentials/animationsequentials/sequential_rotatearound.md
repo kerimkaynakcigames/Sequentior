@@ -1,6 +1,6 @@
 # Rotate Around Sequential
 
-![Rotate Around Sequential](/img/sequential_rotatearound.jpg)
+![Rotate Around Sequential](../../img/sequential_rotatearound.jpg)
 
 This sequential rotates a transform around another transform or a pivot point with animation.
 

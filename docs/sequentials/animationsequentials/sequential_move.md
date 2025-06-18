@@ -1,6 +1,6 @@
 # Move Sequential
 
-![Move Sequential](/img/sequential_move.jpg)
+![Move Sequential](../../img/sequential_move.jpg)
 
 This sequential moves a transform with animation.
 
@@ -41,7 +41,7 @@ This multiplies each axis of the transform's initial position with the correspon
 
 This lets you define the starting position and end position of the move animation independent from the initial position of the target transform.
 
-![From A to B](/img/sequential_move_ab.jpg)
+![From A to B](../../img/sequential_move_ab.jpg)
 
 ## Move Value
 

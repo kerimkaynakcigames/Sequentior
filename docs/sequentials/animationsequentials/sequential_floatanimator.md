@@ -1,6 +1,6 @@
 # Float Animator Sequential
 
-![Float Animator Sequential](/img/sequential_floatanimation.jpg)
+![Float Animator Sequential](../../img/sequential_floatanimation.jpg)
 
 This sequential lets you modify any float property of a component, so it's a very powerful sequential that can be used for general animation purposes for objects that expose a float property.
 
@@ -41,7 +41,7 @@ This multiplies the property's initial value with the __Value__ and modifies the
 
 This lets you define the starting value and end value of the float animation independent from the initial value of the target property.
 
-![From A to B](/img/sequential_floatanimation_ab.jpg)
+![From A to B](../../img/sequential_floatanimation_ab.jpg)
 
 ## Value
 

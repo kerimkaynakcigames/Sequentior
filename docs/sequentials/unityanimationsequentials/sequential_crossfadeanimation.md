@@ -1,6 +1,6 @@
 # CrossFade Unity Animator Animation Sequential
 
-![CrossFade Animation](/img/sequential_crossfadeanimation.jpg)
+![CrossFade Animation](../../img/sequential_crossfadeanimation.jpg)
 
 This sequentials creates a crossfade from the current state to any other state using normalized times.
 

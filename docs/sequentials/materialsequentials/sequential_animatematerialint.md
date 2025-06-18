@@ -1,6 +1,6 @@
 # Material Integer Property Animator Sequential
 
-![Material Integer Animator Sequential](/img/sequential_materialintanimator.jpg)
+![Material Integer Animator Sequential](../../img/sequential_materialintanimator.jpg)
 
 This sequential lets you modify any integer property of a material, so it's a very powerful sequential that can be used for general animation purposes for shaders that expose an integer property.
 

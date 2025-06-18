@@ -1,6 +1,6 @@
 # Play Another Sequentior
 
-![Play Another Sequentior Sequential](/img/sequential_playsequentior.jpg)
+![Play Another Sequentior Sequential](../../img/sequential_playsequentior.jpg)
 
 This sequential plays (starts) sequentials of another Sequentior Manager.
 

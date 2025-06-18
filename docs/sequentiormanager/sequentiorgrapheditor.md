@@ -1,6 +1,6 @@
 # Sequentior Graph Editor
 
-![Sequentior Graph Editor](/img/sequentiorgrapheditor_blank.jpg)
+![Sequentior Graph Editor](../img/sequentiorgrapheditor_blank.jpg)
 
 Sequentior Graph Editor is the main window that is used to create sequential flows. 
 Here you can add as many sequential nodes as you want to create your final flow of sequentials.
@@ -12,11 +12,11 @@ Here you can add as many sequential nodes as you want to create your final flow 
 
 To add a new sequential node to the graph, just __right click__ with your mouse and a popup will appear.
 
-![Create New Menu](/img/sequentiorgrapheditor_createnodemenu.jpg)
+![Create New Menu](../img/sequentiorgrapheditor_createnodemenu.jpg)
 
 Here select the __Create Node__ menu item and a new window appears.
 
-![Sequential List Window](/img/sequentiorgrapheditor_createnodewindow.jpg)
+![Sequential List Window](../img/sequentiorgrapheditor_createnodewindow.jpg)
 
 In this window, you can browse all the sequential nodes that can be added to the graph and they are all categorized.
 Also, you can search for a sequential node by typing to the textbox on top of this window.
@@ -25,11 +25,11 @@ Now click __Debug__ and all the sequentials in Debug category will appear.
 There is only __Log__ sequential in Debug category. 
 Select it.
 
-![Debug category](/img/sequentiorgrapheditor_createnode_debug.jpg)
+![Debug category](../img/sequentiorgrapheditor_createnode_debug.jpg)
 
 That's it! You've added a new sequential node to the graph.
 
-![Log](/img/sequentiorgrapheditor_createnode_log1.jpg)
+![Log](../img/sequentiorgrapheditor_createnode_log1.jpg)
 
 !!! note
     If you look at the gameobject now, you see that it has 2 child gameobjects with related sequential component added. Also you can see that the Sequential list of the Sequentior Manager component is filled with those gameobjects too.
@@ -52,7 +52,7 @@ So, __NEXT__ pin will be connected to the next sequence (sequential node) __IN__
 
 Now, click and hold the left mouse button on the __NEXT__ pin of the Start Sequential and drag it to the __IN__ pin of the Log sequential.
 
-![Log connected](/img/sequentiorgrapheditor_createnode_log2.jpg)
+![Log connected](../img/sequentiorgrapheditor_createnode_log2.jpg)
 
 That's it! Now it's connected and Seqentior Manager knows which sequential to start next after the Start Sequential.
 

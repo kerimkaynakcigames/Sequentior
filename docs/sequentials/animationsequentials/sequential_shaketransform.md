@@ -1,6 +1,6 @@
 # Shake Transform Sequential
 
-![Shake Transform Sequential](/img/sequential_shaketransform.jpg)
+![Shake Transform Sequential](../../img/sequential_shaketransform.jpg)
 
 This sequential shakes the transform with animation.
 

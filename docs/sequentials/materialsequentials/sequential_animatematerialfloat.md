@@ -1,6 +1,6 @@
 # Material Float Property Animator Sequential
 
-![Material Float Animator Sequential](/img/sequential_materialfloatanimator.jpg)
+![Material Float Animator Sequential](../../img/sequential_materialfloatanimator.jpg)
 
 This sequential lets you modify any float property of a material, so it's a very powerful sequential that can be used for general animation purposes for shaders that expose a float property.
 

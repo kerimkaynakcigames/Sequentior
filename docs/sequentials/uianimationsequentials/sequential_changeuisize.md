@@ -1,6 +1,6 @@
 # Change UI Size
 
-![Change UI Size](/img/sequential_changeuisize.jpg)
+![Change UI Size](../../img/sequential_changeuisize.jpg)
 
 This sequential changes the size of a UI element by modifying its __sizeDelta__ property. This is different from [Scale Animation](../animationsequentials/sequential_scale.md) because it changes the scale but this changes the size while keeping the scale as it is.
 
@@ -41,7 +41,7 @@ This multiplies the UI element's initial sizeDelta value with the  __Size__ and 
 
 This lets you define the starting size and end size of the Change UI Size animation independent from the initial size of the target UI element.
 
-![From A to B](/img/sequential_changeuisize_ab.jpg)
+![From A to B](../../img/sequential_changeuisize_ab.jpg)
 
 ## Size
 

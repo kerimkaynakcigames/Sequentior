@@ -1,6 +1,6 @@
 # Unity Event Trigger
 
-![Unity Event Trigger](/img/sequential_unityeventtrigger.jpg)
+![Unity Event Trigger](../../img/sequential_unityeventtrigger.jpg)
 
 This sequential lets you call methods from your scripts via Unity Event mechanism.
 

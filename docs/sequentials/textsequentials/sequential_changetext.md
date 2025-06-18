@@ -1,6 +1,6 @@
 # Change Text Sequential
 
-![Change Text](/img/sequential_changetext.jpg)
+![Change Text](../../img/sequential_changetext.jpg)
 
 This sequential changes the text of a TextMesPro component immediately.
 

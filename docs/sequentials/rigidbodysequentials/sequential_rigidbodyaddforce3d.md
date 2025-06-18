@@ -1,6 +1,6 @@
 # Add Force 3d Sequential
 
-![Add Force](/img/sequential_rigidbodyaddforce3d.jpg)
+![Add Force](../../img/sequential_rigidbodyaddforce3d.jpg)
 
 This sequential adds force to a __3d rigidbody__ component with animation.
 

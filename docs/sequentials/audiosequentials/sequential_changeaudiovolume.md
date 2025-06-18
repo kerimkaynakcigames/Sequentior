@@ -1,6 +1,6 @@
 # Change Audio Volume Sequential
 
-![Change Volume Sequential](/img/sequential_changevolume.jpg)
+![Change Volume Sequential](../../img/sequential_changevolume.jpg)
 
 This sequential lets you change the volume level of an Audio Source component with animation.
 

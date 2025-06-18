@@ -1,6 +1,6 @@
 # Stop Unity Animator Animation Sequential
 
-![Stop Animation](/img/sequential_stopanimation.jpg)
+![Stop Animation](../../img/sequential_stopanimation.jpg)
 
 This sequentials stops a plaing Unity Animator animation.
 

@@ -1,6 +1,6 @@
 # Zoom Camera Sequential
 
-![Zoom Cam](/img/sequential_zoomcam.jpg)
+![Zoom Cam](../../img/sequential_zoomcam.jpg)
 
 This sequential lets you zoom in/out a camera with animation.
 

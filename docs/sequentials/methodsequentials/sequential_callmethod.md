@@ -1,6 +1,6 @@
 # Call Method Sequential
 
-![Call Method](/img/sequential_callmethod.jpg)
+![Call Method](../../img/sequential_callmethod.jpg)
 
 This sequential lets you call a method of a component attached to the Target Object.
 

@@ -1,6 +1,6 @@
 # Change Text Font Size Sequential
 
-![Change Text Size](/img/sequential_changetextfontsize.jpg)
+![Change Text Size](../../img/sequential_changetextfontsize.jpg)
 
 This sequential changes the font size of TextMeshPro component with animation.
 

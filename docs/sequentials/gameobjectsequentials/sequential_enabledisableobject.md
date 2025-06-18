@@ -1,6 +1,6 @@
 # Enable/Disable Object Sequential
 
-![Enable Disable Object](/img/sequential_enabledisable.jpg)
+![Enable Disable Object](../../img/sequential_enabledisable.jpg)
 
 This sequential enables or disables a Unity game object (Target Object) with or without delay.
 

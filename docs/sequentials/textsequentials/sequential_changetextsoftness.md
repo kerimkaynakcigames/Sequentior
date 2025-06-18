@@ -1,6 +1,6 @@
 # Change Text Softness Sequential
 
-![Softness](/img/sequential_textsoftness.jpg)
+![Softness](../../img/sequential_textsoftness.jpg)
 
 This sequential will change the Softness property of a TextMeshPro component with animation.
 

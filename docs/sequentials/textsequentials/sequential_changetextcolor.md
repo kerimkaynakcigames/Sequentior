@@ -1,6 +1,6 @@
 # Change Text Color Sequential
 
-![Change Text Color](/img/sequential_changetextcolor.jpg)
+![Change Text Color](../../img/sequential_changetextcolor.jpg)
 
 This sequential changes the color of a TextMeshPro with animation.
 

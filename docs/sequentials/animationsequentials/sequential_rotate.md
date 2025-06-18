@@ -1,6 +1,6 @@
 # Rotate Sequential
 
-![Rotate Sequential](/img/sequential_rotate.jpg)
+![Rotate Sequential](../../img/sequential_rotate.jpg)
 
 This sequential rotates a transform with animation.
 
@@ -40,7 +40,7 @@ This multiplies each axis of the transform's initial rotation with the correspon
 
 This lets you define the starting rotation and end rotation of the rotate animation independent from the initial rotation of the target transform.
 
-![From A to B](/img/sequential_rotate_ab.jpg)
+![From A to B](../../img/sequential_rotate_ab.jpg)
 
 ## Rotation
 

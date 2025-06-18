@@ -1,6 +1,6 @@
 # Find Multiple Objects Sequential
 
-![Find multiple objects](/img/sequential_findmultipleobj.jpg)
+![Find multiple objects](../../img/sequential_findmultipleobj.jpg)
 
 This sequential lets you find multiple game objects and exposes it to its __Sequential output port__ as GameObject[].
 
@@ -10,7 +10,7 @@ This sequential lets you find multiple game objects and exposes it to its __Sequ
 
 #### Objects Name
 
-![Target Object Tag](/img/sequential_findmultipleobj_byname.jpg)
+![Target Object Tag](../../img/sequential_findmultipleobj_byname.jpg)
 
 This is the name of the game objects to find from the scene. 
 
@@ -29,7 +29,7 @@ If you assign another game object here, it will try to find in children of that 
 
 ### By Tag
 
-![Target Object Tag](/img/sequential_findmultipleobj_bytag.jpg)
+![Target Object Tag](../../img/sequential_findmultipleobj_bytag.jpg)
 
 This lets you find multiple game objects by their tag.
 
@@ -39,7 +39,7 @@ This is the tag of the game object to find from the scene. The first game object
 
 
 ### By Type
-![Target Object Tag](/img/sequential_findmultipleobj_bytype.jpg)
+![Target Object Tag](../../img/sequential_findmultipleobj_bytype.jpg)
 
 This lets you find multiple game objects by their class type.
 
@@ -65,7 +65,7 @@ By default, only the first active object is returned as the target object. But t
 
 ### By Object Group
 
-![Target Object Group](/img/sequential_findmultipleobj_byobjectgroup.jpg)
+![Target Object Group](../../img/sequential_findmultipleobj_byobjectgroup.jpg)
 
 This lets you find game objects which have __Sequentior Object Group__ component and have the same Group Name.
 
@@ -77,7 +77,7 @@ For example, to perform actions on all (or some of) the Buttons in your scene, y
 
 #### Sequentior Object Group Component
 
-![Sequentior Object Group Component](/img/objectgroup.jpg)
+![Sequentior Object Group Component](../../img/objectgroup.jpg)
 
 ##### Group
 This is the name of the group this game object belongs to.

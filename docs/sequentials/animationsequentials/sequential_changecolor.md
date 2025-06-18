@@ -1,6 +1,6 @@
 # Change Color Sequential
 
-![Change Color Sequential](/img/sequential_changecolor.jpg)
+![Change Color Sequential](../../img/sequential_changecolor.jpg)
 
 This sequential changes the color of a game object with animation.
 
@@ -42,7 +42,7 @@ This multiplies each component (R,G,B,A) of the transform's initial color with t
 
 This lets you define the starting color and end color of the animation independent from the initial color of the target transform.
 
-![From A to B](/img/sequential_changecolor_ab.jpg)
+![From A to B](../../img/sequential_changecolor_ab.jpg)
 
 ## Color
 

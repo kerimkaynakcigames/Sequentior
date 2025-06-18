@@ -1,6 +1,6 @@
 # Scale Sequential
 
-![Scale Sequential](/img/sequential_scale.jpg)
+![Scale Sequential](../../img/sequential_scale.jpg)
 
 This sequential scales a transform with animation.
 
@@ -39,7 +39,7 @@ This multiplies each axis of the transform's initial scale with the correspondin
 
 This lets you define the starting scale and end scale of the scale animation independent from the initial scale of the target transform.
 
-![From A to B](/img/sequential_scale_ab.jpg)
+![From A to B](../../img/sequential_scale_ab.jpg)
 
 ## Scale Value
 

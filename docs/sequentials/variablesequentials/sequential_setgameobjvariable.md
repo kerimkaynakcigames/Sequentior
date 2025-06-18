@@ -1,6 +1,6 @@
 # Set GameObject Variable Sequential
 
-![Set Variable](/img/sequential_setgameobjvar.jpg)
+![Set Variable](../../img/sequential_setgameobjvar.jpg)
 
 This sequential sets the value of a variable to the game object retured from __Seq Obj Input port__.
 

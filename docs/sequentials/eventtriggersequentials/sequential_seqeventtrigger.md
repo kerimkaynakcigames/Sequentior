@@ -1,6 +1,6 @@
 # Sequentior Event Trigger
 
-![Seq Event Trigger](/img/sequential_seqeventtrigger.jpg)
+![Seq Event Trigger](../../img/sequential_seqeventtrigger.jpg)
 
 This sequential triggers a [Sequentior Event](../../sequentiorevent.md)
 

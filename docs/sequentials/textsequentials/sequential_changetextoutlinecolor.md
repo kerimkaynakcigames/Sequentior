@@ -1,6 +1,6 @@
 # Change Text Outline Color Sequential
 
-![Change Text Outline Color](/img/sequential_textoutlinecolor.jpg)
+![Change Text Outline Color](../../img/sequential_textoutlinecolor.jpg)
 
 This sequential changes the outline color of a TextMeshPro with animation.
 

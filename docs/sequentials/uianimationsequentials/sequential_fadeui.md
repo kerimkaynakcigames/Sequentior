@@ -1,6 +1,6 @@
 # Fade UI
 
-![Fade UI Sequential](/img/sequential_fadeui.jpg)
+![Fade UI Sequential](../../img/sequential_fadeui.jpg)
 
 This sequential lets you fade a UI element by modifying its Alpha value with animation.
 
@@ -48,7 +48,7 @@ This multiplies the transform's initial alpha value with the  __Alpha Value__ an
 
 This lets you define the starting alpha and end alpha of the fade animation independent from the initial alpha of the target transform.
 
-![From A to B](/img/sequential_fadeui_ab.jpg)
+![From A to B](../../img/sequential_fadeui_ab.jpg)
 
 ## Alpha Value
 

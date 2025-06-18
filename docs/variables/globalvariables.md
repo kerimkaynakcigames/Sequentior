@@ -12,7 +12,7 @@ For example, you can define a global variable for duration of a popup show anima
 To create a new global variable, right click on the Project view then __Create -> Sequentior -> Global Variable__.
 
 
-![Global Variable](/img/globalvariable.jpg)
+![Global Variable](../img/globalvariable.jpg)
 
 !!! tip
     To learn more about how to use global variables in sequentials, please refer to [Value Assign](../valueassign.md) section.

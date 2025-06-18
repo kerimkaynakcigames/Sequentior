@@ -1,6 +1,6 @@
 # Play Audio Sequential
 
-![Play Audio](/img/sequential_playaudio.jpg)
+![Play Audio](../../img/sequential_playaudio.jpg)
 
 This sequential plays a single or multiple audio clip(s).
 
@@ -27,7 +27,7 @@ It's possible to assign different kind of values to this property (e.g. directly
 
 This is the list of Audio Clips to play. Only available when the __Play Option__ is set to __All at once__.
 
-![Clips](/img/sequential_playaudioallatonce.jpg)
+![Clips](../../img/sequential_playaudioallatonce.jpg)
 
 ## Volume
 
