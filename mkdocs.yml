@@ -109,9 +109,12 @@ nav:
       - Sequential Node: customsequentials/attributes/sequentialnode.md
   - Dynamic Sequentior: dynamicsequentior.md
   - Sequentior Event: sequentiorevent.md
-  - Sample Projects: sampleproject.md
-  - Examples & How-Tos:
-    - examples/index.md
+  - Sample Projects:
+    - sampleprojects/index.md
+    - Simple Game: sampleprojects/simplegame.md
+    - UI Demo: sampleprojects/uidemo.md
+    - UI Advanced: sampleprojects/uiadvanced.md
+  - Setup Additional Features: setup.md
 theme: 
   name: material
   features:
