@@ -2,6 +2,10 @@
 
 To download Sequentior, please visit [Asset Store](https://u3d.as/3zcL).
 
+## Video Tutorials
+
+For video tutorials, please visit [my YouTube channel](https://www.youtube.com/playlist?list=PL4V_Ku4wrTUuIAPjiktsWgrQkWVpfa4IZ)
+
 ## What is Sequentior?
 
 Sequentior is a Unity asset to create a flow of sequences for performing lots of stuff including animations.
