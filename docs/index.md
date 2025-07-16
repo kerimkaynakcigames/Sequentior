@@ -1,6 +1,6 @@
 # Welcome to Sequentior
 
-To download Sequentior, please visit [Asset Store](https://www.assetstore.com).
+To download Sequentior, please visit [Asset Store](https://u3d.as/3zcL).
 
 ## What is Sequentior?
 

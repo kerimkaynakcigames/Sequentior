@@ -1,6 +1,6 @@
 # Setup Additional Features
 
-Some features of Sequentior needs some specific packages are imported to your project. After you import a specific package, you can setup its related functions by opening __KerimKaynakci Games -> Sequentior Setup__ from the main menu of Unity Editor.
+Some features of Sequentior needs some specific packages are imported to your project. After you import a specific package, you can setup its related functions by opening __Tools -> KerimKaynakci Games -> Sequentior Setup__ from the main menu of Unity Editor.
 
 ![Setup](img/setupadditional.jpg)
 
