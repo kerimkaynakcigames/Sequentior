@@ -5,7 +5,7 @@ Sequentials in this category let you animate parameters of Post Processing effec
 In this page, you'll find common properties of built-in post processing sequentials. Every other property of these sequentials reflects the same properties of corresponding post processing effect. To learn more about fields/properties of each post processing effect please refer to the [Unity Post-Processing Stack V2 Documentation](https://docs.unity3d.com/Packages/com.unity.postprocessing@3.5/manual/)
 
 !!! warning "Setup Post Processing first"
-    To use Post Processing related actions, you need to go to the [Setup](../../setup.md) screen and choose related options. Please see the [Setup documentation](../../setup.md) for more information.
+    To use Post Processing related actions, you need to go to the [Setup](../../../setup.md) screen and choose related options. Please see the [Setup documentation](../../../setup.md) for more information.
 
 
 !!! note "Base Properties"
