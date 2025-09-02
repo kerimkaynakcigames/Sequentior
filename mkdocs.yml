@@ -43,6 +43,7 @@ nav:
         - Fade UI : sequentials/uianimationsequentials/sequential_fadeui.md
         - Change UI Size : sequentials/uianimationsequentials/sequential_changeuisize.md
         - Change UI Offset : sequentials/uianimationsequentials/sequential_changeuioffset.md
+        - Fill UI Image: sequentials/uianimationsequentials/sequential_filluiimage.md
       - Material Sequentials:
         - sequentials/materialsequentials/index.md
         - Change Material Color: sequentials/materialsequentials/sequential_changematerialcolor.md
@@ -64,6 +65,7 @@ nav:
         - Change Audio Volume: sequentials/audiosequentials/sequential_changeaudiovolume.md
       - Method Sequentials:
         - Call Method: sequentials/methodsequentials/sequential_callmethod.md
+        - Unity Event Trigger: sequentials/eventtriggersequentials/sequential_unityeventtrigger.md
       - Loop Sequentials:
         - sequentials/loopsequentials/index.md
       - Pause Sequentials:
@@ -84,6 +86,7 @@ nav:
         - Change Text Outline Width: sequentials/textsequentials/sequential_changetextoutlinewidth.md
         - Change Text Outline Color: sequentials/textsequentials/sequential_changetextoutlinecolor.md
       - Rigidbody Sequentials:
+        - Move Rigidbody : sequentials/rigidbodysequentials/sequential_rigidbodymove.md
         - Add Force: sequentials/rigidbodysequentials/sequential_rigidbodyaddforce3d.md
         - Add Force 2D: sequentials/rigidbodysequentials/sequential_rigidbodyaddforce2d.md
         - Add Explosion Force: sequentials/rigidbodysequentials/sequential_rigidbodyaddexplosion.md
@@ -93,6 +96,22 @@ nav:
         - Stop Unity Animation: sequentials/unityanimationsequentials/sequential_stopanimation.md
         - Set Animator Parameter: sequentials/unityanimationsequentials/sequential_setanimatorparameter.md
         - CrossFade Unity Animation: sequentials/unityanimationsequentials/sequential_crossfadeanimation.md
+      - Particle System Sequentials:
+        - sequentials/particlesystemsequentials/index.md
+        - Play Particle System: sequentials/particlesystemsequentials/sequential_playparticlesystem.md
+        - Stop Particle System: sequentials/particlesystemsequentials/sequential_stopparticlesystem.md
+        - Pause Particle System: sequentials/particlesystemsequentials/sequential_pauseparticlesystem.md
+        - Enable/Disable Particle System Module: sequentials/particlesystemsequentials/sequential_enabledisablepsmodule.md
+        - Change Simulation Speed: sequentials/particlesystemsequentials/sequential_changepssimulationspeed.md
+      - Light Sequentials:
+        - sequentials/lightsequentials/index.md
+        - Change Light Intensity: sequentials/lightsequentials/sequential_changelightintensity.md
+        - Change Light Color: sequentials/lightsequentials/sequential_changelightcolor.md
+        - Change Light Range: sequentials/lightsequentials/sequential_changelightrange.md
+      - Post Processing Effects:
+        - sequentials/postprocessingsequentials/index.md
+        - URP: sequentials/postprocessingsequentials/urp/index.md
+        - Built-in RP: sequentials/postprocessingsequentials/builtin/index.md
       - Misc:
         - Time Scale: sequentials/miscsequentials/sequential_timescale.md
   - Assigning Values: valueassign.md
