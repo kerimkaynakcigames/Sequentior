@@ -10,7 +10,8 @@ Here you can add as many sequential nodes as you want to create your final flow 
 
 ## Add New Sequential Node
 
-To add a new sequential node to the graph, just __right click__ with your mouse and a popup will appear.
+To add a new sequential node to the graph, just __right click__ an empty area with your mouse or click the __Add Sequential button__ and a popup will appear.
+
 
 ![Create New Menu](../img/sequentiorgrapheditor_createnodemenu.jpg)
 

@@ -21,7 +21,7 @@ The most important one is the **Open Editor** button. But let's see the other op
 For most of the cases Id stays empty. But when you create a Sequentior (e.g. for an animation) and you make this Sequentior a prefab, you can dynamically load this Sequentior at runtime and play the Sequentior. This is useful for using a single Sequentior in multiple objects.
 
 !!! quote ""
-    :octicons-link-16: See [Dynamic Sequentiors](dynamicsequentior.md) to learn how to create sequentior prefabs.
+    :octicons-link-16: See [Dynamic Sequentiors](../dynamicsequentior.md) to learn how to create sequentior prefabs.
 
 When this kind of dynamic sequentior is needed, you need to define a unique Id.
 
@@ -83,6 +83,7 @@ Depending on your task's logic, you can try to play sequentials again even thoug
 * __Don't Replay If Running__ : This is the default one. Sequentior Manager won't start the sequentials if the previously started sequentials not completed yet.
 * __Multiple Run__ : It will start the sequentials again whether or not a previous sequential session is completed.
 * __Stop Current and Run__ : It stops the currently running sequential session and restarts them all.
+* __Run Only Once__ : This prevents the Sequentior Manager to play for the second time. In other words, this basically lets the Sequentior Manager play only once. But you can reset it by calling the Reset() method and it can play once again.
 
 ### Cooldown Duration
 
