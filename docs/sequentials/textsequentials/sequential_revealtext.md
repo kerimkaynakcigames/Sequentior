@@ -12,7 +12,7 @@ This sequential reveals a text of a TextMeshPro component with animation.
     This sequential derives from __Object Returner Sequential__ and gets all its properties from that sequential. So, to learn about the __Target Object Options__ please see [Object Returner Sequential](../sequentialobjectreturner/index.md)
 
 !!! note "Animation Options"
-    This sequential derives from __Animation Sequential__ and gets all of its properties. So, to learn about the __Animation Options please see [Animation Base](index.md)
+    This sequential derives from __Animation Sequential__ and gets all of its properties. So, to learn about the __Animation Options please see [Animation Base](../animationsequentials/index.md)
 
 !!! warning "Target Object"
  
@@ -24,7 +24,7 @@ This sequential reveals a text of a TextMeshPro component with animation.
 This defines how to reveal the text.
 
 * __Character by Character__: This will reveal each character one by one.
-* __Word by Word__: This will reveal each word one by one.
+* __Word by Word__: This will reveal each word one by one. Ignores multiple spaces between words.
 * __Line by Line__: This will reveal each line one by one.
 
 ## Text

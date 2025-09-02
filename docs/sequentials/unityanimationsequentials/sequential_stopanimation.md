@@ -2,7 +2,7 @@
 
 ![Stop Animation](../../img/sequential_stopanimation.jpg)
 
-This sequentials stops a plaing Unity Animator animation.
+This sequentials stops a playing Unity Animator animation.
 
 !!! note "Base Properties"
     To learn about the common Base Properties, please see [Base Sequential](../sequential_base.md)
@@ -13,5 +13,5 @@ This sequentials stops a plaing Unity Animator animation.
 
 !!! warning "Target Object"
  
-    Target Object (or Target Objects if Multiple Objects are returned) needs to be Animator type. So please make sure that the game object assigned in this field has a Animator component attached. Otherwise you'll see a runtime error log when this sequential plays.
+    Target Object (or Target Objects if Multiple Objects are returned) needs to be Animator type. So please make sure that the game object assigned in this field has an Animator component attached. Otherwise you'll see a runtime error log when this sequential plays.
 

@@ -32,5 +32,5 @@ For every __Begin Loop__ sequential, you need to add an __End Loop__ sequential 
     Nested loops are not supported.
 
 !!! warning
-    [Wait Sequential](../pausesequentials/wait.md) inside a loop is not supported.
+    [Wait Sequential](../pausesequentials/sequential_wait.md) inside a loop is not supported.
 

@@ -66,6 +66,11 @@ This is the starting rotation of the rotate animation.
     When you assign From Rotation with __Sequential__ option, you need to connect the related sequential's Sequential output port to this sequential's __From Rotation input port__. 
 
 
+## Closest Path
+
+This calculates the minimum angle difference to reach to the target rotation angle and rotates the transform accordingly. 
+
+For example, say you want to rotate a transform from 270 to 0. By default this sequential rotates the transform backwards to 0 (270, 260, 250 ... 0). But if this option is checked, it will rotate to 360 instead of 0 because this path is faster (270, 280, ... 360) and it's the same target angle.
 
 ## Animate Local Rotation
 

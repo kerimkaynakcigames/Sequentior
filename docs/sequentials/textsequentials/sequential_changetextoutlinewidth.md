@@ -5,6 +5,9 @@
 This sequential will change the Outline Width property of a TextMeshPro component with animation.
 
 
+!!! warning
+    Do not forget to enable the Outline option of the text's material!
+
 !!! note "Base Properties"
     To learn about the common Base Properties, please see [Base Sequential](../sequential_base.md)
 
@@ -12,7 +15,7 @@ This sequential will change the Outline Width property of a TextMeshPro componen
     This sequential derives from __Object Returner Sequential__ and gets all its properties from that sequential. So, to learn about the __Target Object Options__ please see [Object Returner Sequential](../sequentialobjectreturner/index.md)
 
 !!! note "Animation Options"
-    This sequential derives from __Animation Sequential__ and gets all of its properties. So, to learn about the __Animation Options please see [Animation Base](index.md)
+    This sequential derives from __Animation Sequential__ and gets all of its properties. So, to learn about the __Animation Options please see [Animation Base](../animationsequentials/index.md)
 
 !!! warning "Target Object"
  

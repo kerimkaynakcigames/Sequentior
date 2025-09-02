@@ -1,8 +1,6 @@
-# Change Text Color Sequential
+# Change Light Color
 
-![Change Text Color](../../img/sequential_changetextcolor.jpg)
-
-This sequential changes the color of a TextMeshPro with animation.
+This sequential lets you change the color of a Light component with animation.
 
 
 !!! note "Base Properties"
@@ -12,11 +10,12 @@ This sequential changes the color of a TextMeshPro with animation.
     This sequential derives from __Object Returner Sequential__ and gets all its properties from that sequential. So, to learn about the __Target Object Options__ please see [Object Returner Sequential](../sequentialobjectreturner/index.md)
 
 !!! note "Animation Options"
-    This sequential derives from __Animation Sequential__ and gets all of its properties. So, to learn about the __Animation Options please see [Animation Base](../animationsequentials/index.md)
+    This sequential derives from __Animation Sequential__ and gets all of its properties. So, to learn about the __Animation Options please see [Animation Base](index.md)
 
 !!! warning "Target Object"
  
-    Target Object (or Target Objects if Multiple Objects are returned) needs to be TextMeshPro type. So please make sure that the game object assigned in this field has a TextMeshPro component attached. Otherwise you'll see a runtime error log when this sequential plays.
+    Target Object (or Target Objects if Multiple Objects are returned) needs to be Light type. So please make sure that the game object assigned in this field has a Light component attached. Otherwise you'll see a runtime error log when this sequential plays.
+
 
 ## Color Change Type
 

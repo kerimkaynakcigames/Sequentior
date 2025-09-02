@@ -15,7 +15,7 @@ This sequential lets you set a value to an animator parameter.
 
 !!! warning "Target Object"
  
-    Target Object (or Target Objects if Multiple Objects are returned) needs to be Animator type. So please make sure that the game object assigned in this field has a Animator component attached. Otherwise you'll see a runtime error log when this sequential plays.
+    Target Object (or Target Objects if Multiple Objects are returned) needs to be Animator type. So please make sure that the game object assigned in this field has an Animator component attached. Otherwise you'll see a runtime error log when this sequential plays.
 
 ## Parameter Name
 

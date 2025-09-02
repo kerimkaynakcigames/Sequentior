@@ -13,10 +13,17 @@ This option lets you choose how to find the target object. There are a few optio
 
 This lets you select a single game object as the target object from the scene.
 
+
 #### Target Object
 
 This is used to assign a single target object directly.
 
+!!! note
+    If you forgot to assign a Target Object, the parent Sequentior Manager gameobject will be assigned automatically as the target object. But this will throw a warning in console.
+
+### Parent Sequentior
+
+This sets the parent sequentior manager of this sequential as the target object.
 
 ### By Name
 
@@ -99,4 +106,4 @@ This variable needs to be in the Variables List of parent Sequentior Manager.
 ![Variable](../../img/sequential_variable_gameobject.jpg)
 
 !!! info
-    See [Variables](../../variables.md) for more information about variables.
+    See [Variables](../../variables/index.md) for more information about variables.

@@ -9,10 +9,21 @@ This sequential plays (starts) sequentials of another Sequentior Manager.
     To learn about the common Base Properties, please see [Base Sequential](../sequential_base.md)
 
 !!! note "Target Object Options"
-    This sequential derives from __Object Returner Sequential__ and gets all its properties from that sequential. So, to learn about the __Target Object Options__ please see [Object Returner Sequential](../sequential_objectreturner.md)
+    This sequential derives from __Object Returner Sequential__ and gets all its properties from that sequential. So, to learn about the __Target Object Options__ please see [Object Returner Sequential](../sequentialobjectreturner/index.md)
 
 
 
 !!! warning "Target Object"
  
     Target Object (or Target Objects if Multiple Objects are returned) needs to be type of __Sequentior Manager__. So please make sure that the game object assigned in this field has the Sequentior Manager component attached. Otherwise you'll see a runtime error log when this sequential plays. 
+
+
+## Completes When Sequentior Completes
+
+If not checked, this sequential starts the target Sequentior Manager and returns as completed immediately without waiting for the target Sequentior's sequentials completes or not.
+
+If checked, this sequential won't raise its completed event until all the target sequentiors play and completes their actions.
+
+This is useful when creating multiple sequentiors for specific actions and playing them one after another in another sequentior by adding Wait Sequential between them.
+
+![Completion](../../img/sequential_playsequentior_complete.jpg)
