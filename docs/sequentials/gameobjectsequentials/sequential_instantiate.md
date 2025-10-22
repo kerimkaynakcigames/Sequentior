@@ -27,6 +27,10 @@ This defines how many objects to instantiate from the prefab.
     If you assign a value greater than 1, the __Sequential output port__ exposes an array of game objects instead of a single game object.
 
 
+## Delay Between Each Object
+
+If the __Object Count__ is greater than 1, you can define a delay value (in seconds) to wait between each object instantiate.
+
 ## Parenting
 
 This section lets you define the parenting options of the instantiated game object.

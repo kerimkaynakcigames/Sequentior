@@ -19,9 +19,13 @@ Every sequential between __Begin Loop__ and __End Looop__ sequentials will play 
 
 It's possible to assign different kind of values to this property (e.g. directly, randomly, from variable).
 
-
 !!! info
     To learn more about assigning values with different options, see [Value Assign](../../valueassign.md)
+
+
+## Delay Between Loops
+
+How many seconds to wait between each loop.
 
 ## End Loop
 ![End Loop](../../img/sequential_loopend.jpg)
@@ -31,6 +35,4 @@ For every __Begin Loop__ sequential, you need to add an __End Loop__ sequential 
 !!! warning
     Nested loops are not supported.
 
-!!! warning
-    [Wait Sequential](../pausesequentials/sequential_wait.md) inside a loop is not supported.
 
