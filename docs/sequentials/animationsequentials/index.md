@@ -31,6 +31,12 @@ You can choose from a predefined ease functions or select the Custom option and 
 !!! tip
     Try several Ease Type for your animations to create some cool effects.
 
+## Overshoot
+
+For some Ease Types you can define an overshoot value to give the ease function's curve custom overshoot.
+
+For example, you can set a multiplier (overshoot) for InBack ease so it moves more at the beginning of easing.
+
 ## Repeat Options
 
 If you want to make the animation repeat itself, you can set the paremeters in this section.
