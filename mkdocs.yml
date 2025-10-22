@@ -19,6 +19,7 @@ nav:
         - Stop Sequentior: sequentials/sequentiorsequentials/sequential_stopsequentior.md
         - Pause Sequentior: sequentials/sequentiorsequentials/sequential_pausesequentior.md
         - Resume Sequentior: sequentials/sequentiorsequentials/sequential_resumesequentior.md
+        - Get Sequentior: sequentials/sequentiorsequentials/sequential_getsequentior.md
       - GameObject Sequentials:
         - sequentials/gameobjectsequentials/index.md
         - Destroy Object: sequentials/gameobjectsequentials/sequential_destroygameobject.md
@@ -29,6 +30,7 @@ nav:
       - Animation Sequentials: 
         - sequentials/animationsequentials/index.md
         - Move : sequentials/animationsequentials/sequential_move.md
+        - Move Along Path: sequentials/animationsequentials/sequential_movealongpath.md
         - Rotate : sequentials/animationsequentials/sequential_rotate.md
         - Rotate Around : sequentials/animationsequentials/sequential_rotatearound.md
         - Scale : sequentials/animationsequentials/sequential_scale.md
@@ -38,6 +40,7 @@ nav:
       - UI Animation Sequentials:
         - sequentials/uianimationsequentials/index.md
         - Move : sequentials/animationsequentials/sequential_move.md
+        - Move Along Path: sequentials/animationsequentials/sequential_movealongpath.md
         - Rotate : sequentials/animationsequentials/sequential_rotate.md
         - Scale : sequentials/animationsequentials/sequential_scale.md
         - Fade UI : sequentials/uianimationsequentials/sequential_fadeui.md
@@ -56,6 +59,7 @@ nav:
       - Variable Sequentials:
         - Get Variable: sequentials/variablesequentials/sequential_getvariable.md
         - Set GameObject Variable: sequentials/variablesequentials/sequential_setgameobjvariable.md
+        - Set Variable Directly: sequentials/variablesequentials/sequential_setvariabledirect.md
       - Event Trigger Sequentials:
         - sequentials/eventtriggersequentials/index.md
         - Sequentior Event Trigger: sequentials/eventtriggersequentials/sequential_seqeventtrigger.md
@@ -127,6 +131,11 @@ nav:
       - customsequentials/attributes/index.md
       - Sequential Node: customsequentials/attributes/sequentialnode.md
   - Dynamic Sequentior: dynamicsequentior.md
+  - Sequentior Snippets:
+    - sequentiorsnippets/index.md
+    - Create Snippet: sequentiorsnippets/createsequentiorsnippet.md
+    - Play Snippet: sequentiorsnippets/playsequentiorsnippet.md
+    - Add To Search List: sequentiorsnippets/sequentiorsnippetlist.md
   - Sequentior Event: sequentiorevent.md
   - Sample Projects:
     - sampleprojects/index.md
