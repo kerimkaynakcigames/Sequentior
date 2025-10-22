@@ -20,6 +20,7 @@ Which type of component do you want to fade?
 
 * __Image:__ If the gameobject you want to fade has the UI Image component, select this option.
 * __Canvas Group:__ If the gameobject you want to fade has the Canvas Group component, select this option.
+* __Text:__ If the gameobject you want to fade has the TMPText component, select this option.
 
 
 ## Fade Change Type
