@@ -12,3 +12,7 @@ Most of the time you won't need this sequential because sequential properties th
 ## Variable Name
 
 The variable name to find in the Parent Sequentior's Variables List.
+
+!!! tip
+    You can select a variable of __parent__ Sequentior Manager by clicking the yellow arrow in this field. This is just for entering the variable name easily. You can always type any variable name to the field also.
+
