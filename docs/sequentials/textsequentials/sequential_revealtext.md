@@ -36,4 +36,12 @@ It's possible to assign different kind of values to this property (e.g. directly
 
 !!! info
     To learn more about assigning values with different options, see [Value Assign](../../valueassign.md)
+
+## Rich Text
+
+If you enabled this option, it will parse the rich text tags (e.g. b, color) in the text and reveal the text accordingly.
+
+Otherwise, it will not parse rich text tags and display them as plain text.
+
+Most of the time, this should be enabled.
  
