@@ -12,6 +12,9 @@ Here you can add as many sequential nodes as you want to create your final flow 
 
 To add a new sequential node to the graph, just __right click__ an empty area with your mouse or click the __Add Sequential button__ and a popup will appear.
 
+!!! tip
+    You can also use the Shift+A shortcut to open the Create Sequential window.
+
 
 ![Create New Menu](../img/sequentiorgrapheditor_createnodemenu.jpg)
 
@@ -19,8 +22,12 @@ Here select the __Create Node__ menu item and a new window appears.
 
 ![Sequential List Window](../img/sequentiorgrapheditor_createnodewindow.jpg)
 
-In this window, you can browse all the sequential nodes that can be added to the graph and they are all categorized.
+In this window, you can browse all the sequential nodes that can be added to the graph and they are all categorized and they have short descriptions.
+
 Also, you can search for a sequential node by typing to the textbox on top of this window.
+
+!!! tip
+    You can search by keywords of the sequentials as well as titles. For example when you search for "delete" it will also display "Destroy" sequential in the list.
 
 Now click __Debug__ and all the sequentials in Debug category will appear.
 There is only __Log__ sequential in Debug category. 
@@ -87,3 +94,10 @@ You can __right click__ on a sequential node and choose __Delete__
 Now, just enter a text to the __Log__ property of the Log Sequential and then enter Play mode in your game.
 
 If everything works as expected, you'll see the log text in Console.
+
+
+## Collapse All and Expand All
+
+When you have lots of sequential nodes on the graph, this might affect the performance of editor and it might slow down. In these cases, you can collapse all the nodes by clicking the Collapse All button. This way, because Unity won't draw all the sequential node properties, it will speed up again. You can work on a single or a few nodes at a time while the others are collapsed.
+
+Expand All button expands all the nodes again.

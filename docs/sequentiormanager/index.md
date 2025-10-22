@@ -123,6 +123,17 @@ Let's you decide what to do after all the sequentials in this Sequentior Manager
 
 This is a UnityEvent that can be triggered after all the sequentials in this Sequentior Manager completed. So you can call methods in your scripts when sequentials completes.
 
+
+## MISC
+
+### Stop On Destroy
+
+This will stop all the playing sequentials of this SequentiorManager when this SequentiorManager is destroyed. This is the default behaviour but you might want to continue (especially repeated) animations even though the parent SequentiorManager is destroyed.
+
+### Stop On Disable
+
+This will stop all the playing sequentials of this SequentiorManager when this SequentiorManager is disabled. This is the default behaviour but you might want to continue (especially repeated) animations even though the parent SequentiorManager is disabled.
+
 ## VARIABLES
 
 You can add variables to this list that will be used in the sequentials in this Sequentior Manager.
