@@ -9,7 +9,7 @@ But, for advanced scenarios we need more because some values might depend on ano
 Now, let's see each value assign options.
 
 !!! note
-    Whenever you see a down arrow ![Down Arrow](img/valuearrow.jpg) icon next to a property, that means this field has some another value assign options to choose from.
+    Whenever you see a down arrow ![Down Arrow](img/valuearrow.jpg) icon next to a property, that means this field has some another value assign options to choose from. But please note that not all the options are available for all fields of sequentials.
 
 ## Direct Assignment
 In this option, you directly enter a value. 
@@ -54,6 +54,10 @@ For example, you can assign to another transform to the MoveValue of a Move sequ
 
 ![Another Transform](img/valueassign_anothertransform.jpg)
 
+## Transform Array
+
+Same as the __Another Transform__ but this is the array version.
+
 ## Sequential
 
 In this option, you can connect another sequential's Sequential output port to the appropriate input port of this sequential and it will get the value from this connected sequential's returned game object.
@@ -61,3 +65,11 @@ In this option, you can connect another sequential's Sequential output port to t
 ![Sequential](img/valueassign_sequential.jpg)
 
 ![Sequential](img/valueassign_sequential2.jpg)
+
+
+## Predefined Values
+
+In this option, you can select from a list of predefined values.
+
+![Predefined Values](img/valueassign_predefinedvalues.jpg)
+

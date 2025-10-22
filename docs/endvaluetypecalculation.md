@@ -16,10 +16,17 @@ This changes the related property from its initial value (the value before this 
 
 This sets the property value to the __Value__ and then changes it to its initial value again.
 
+
 ### Initial Plus Value
 
 This adds __Value__ to the initial property value and changes it to the calculated value.
 
+### Initial Plus Value to Initial
+
+This adds __Value__ to the initial property value and then changes it to its initial value again.
+
+This is useful for adding an initial offset to a property. 
+e.g. if you want to move a UI element from -100 units left from its initial position to its initial position again, select this option and just set X parameter of MoveValue property to -100 and leave Y and Z 0 because we don't want to move in these axis.
 
 ### Initial Multiply Value
 
