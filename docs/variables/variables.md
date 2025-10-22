@@ -18,8 +18,11 @@ This variable name should be unique in the same Sequentior Manager.
 ## Var Type
 This is the data type of the variable.
 
+## Is Array
+If you want to define the variable as an array, enable this option.
+
 ## Variable Values
 This is the default/initial value of the variable.
 
-This field is dynamic and changes in accordance with __Var Type__.
+This field is dynamic and changes in accordance with __Var Type__ and __Is Array__ properties.
 
